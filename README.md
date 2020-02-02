@@ -1,2 +1,3 @@
 #Curso Python 3
-Aquí estará el guión de todo el curso.
+### Capitulo 1: Operadores
+-Operadores.py 
