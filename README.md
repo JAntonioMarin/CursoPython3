@@ -12,3 +12,11 @@
 -FlujosControl.py
 
 -FlujosControl2.py
+### Ejercicios:
+-Assignment/1.py
+
+-Assignment/2.py
+
+-Assignment/3.py
+
+-Assignment/4.py
