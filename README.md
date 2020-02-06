@@ -22,5 +22,5 @@
 -Assignment/4.py
 ### Capitulo 4: Entrada/Salida de Datos y Listas  
 -ESDatosListas.py
-### Ejecicios:
+### Ejercicios:
 -Assignment/5.py
