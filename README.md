@@ -24,3 +24,9 @@
 -ESDatosListas.py
 ### Ejercicios:
 -Assignment/5.py
+###Capitulo 5: Colas y Tuplas
+-ColasTuplas.py
+###Capitulo 6: Cadenas
+-Cadenas.py
+
+-Cadenas2.py
