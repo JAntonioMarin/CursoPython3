@@ -42,3 +42,9 @@
 -Cadenas.py
 
 -Cadenas2.py
+
+### Capitulo 7: Expresiones regulares
+
+-ExpresionesRegulares.py
+
+-ExpresionesRegulares2.py
