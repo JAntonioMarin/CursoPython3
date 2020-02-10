@@ -48,3 +48,9 @@
 -ExpresionesRegulares.py
 
 -ExpresionesRegulares2.py
+
+### Capitulo 8: Diccionarios
+
+-Diccionarios.py
+
+
