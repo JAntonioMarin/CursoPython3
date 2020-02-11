@@ -53,4 +53,12 @@
 
 -Diccionarios.py
 
+### Capitulo 9: Archivos
+
+-Assets/prueba.txt
+
+-Archivos.py
+
+-Archivos2.py
+
 
