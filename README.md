@@ -61,4 +61,10 @@
 
 -Archivos2.py
 
+### Capitulo 10: Funciones
+
+-Funciones.py
+
+-Funciones2.py
+
 
