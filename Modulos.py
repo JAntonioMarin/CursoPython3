@@ -4,6 +4,7 @@ Created by JAntonioMarin
 @author: JAntonioMarin
 """
 
+
 def calcular(a,b):
     teclado = input("Introduce un tipo de operación")
     if teclado == '+':
