@@ -83,6 +83,20 @@
 
 -Excepciones.py
 
+### Capitulo 14: Proyecto Final
+
+-Librerias necesarias (request, html2text)
+
+pip3 install requests
+pip3 install html2text
+
+-Main.py
+
+-webfrec.py
+
+
+ 
+
 
 
 
